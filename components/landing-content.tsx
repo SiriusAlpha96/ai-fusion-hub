@@ -1,36 +1,37 @@
 "use client";
 
+
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 
 const testimonials = [
   {
     name: "Conversation with AI",
     avatar: "J",
-    
+    title : "",
     description: "Diverse narratives, stories, and information presented.",
   },
   {
     name: "Code Generation",
     avatar: "J",
-    
+    title: "",
     description: " Automated creation of software instructions using AI algorithms for various applications.",
   },
   {
     name: "Music Generation",
     avatar: "I",
-   
+    title: "",
     description: "Melodies, rhythms, and harmonies evoking mood and atmosphere.",
   },
   {
     name: "Image Generation",
     avatar: "A",
-    
+    title: "",
     description: "Visual representation conveying emotions, ideas, and messages.",
   },
   {
     name: "Video Generation",
     avatar: "A",
-    
+    title: "",
     description: "Moving images, scenes, and sequences capturing moments and narratives.",
   },
 ];
