@@ -7,13 +7,13 @@ AI-FUSION-HUB is a creative powerhouse SaaS application that integrates advanced
 
 ## Features
 
-Code Generation: Effortlessly generate code snippets for various programming languages to kickstart your projects.
+- Code Generation: Effortlessly generate code snippets for various programming languages to kickstart your projects.
 
-Image Creation: Create stunning and unique images with the help of advanced AI algorithms.
+- Image Creation: Create stunning and unique images with the help of advanced AI algorithms.
 
-Short Video Generator: Craft engaging short videos with just a few clicks.
+- Short Video Generator: Craft engaging short videos with just a few clicks.
 
-Music Clip Composer: Generate music clips to add the perfect soundtrack to your creations.
+- Music Clip Composer: Generate music clips to add the perfect soundtrack to your creations.
 
 ## Technologies Used
 
