@@ -1,8 +1,8 @@
-## AI-FUSION-HUB
+## AI-FUSION HUB
 
 ## Overview
 
-AI-FUSION-HUB is a creative powerhouse SaaS application that integrates advanced AI tools to generate code, images, 3-second short videos, and music clips. Unleash your creativity effortlessly and overcome creative blocks with the innovative capabilities of AI-FUSION-HUB.
+AI-FUSION HUB is a creative powerhouse SaaS application that integrates advanced AI tools to generate code, images, 3-second short videos, and music clips. Unleash your creativity effortlessly and overcome creative blocks with the innovative capabilities of AI-FUSION HUB.
 
 
 ## Features

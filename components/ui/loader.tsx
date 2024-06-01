@@ -84,7 +84,7 @@ const didYouKnowList = useMemo(() => [
       <div className="w-10 h-10 reliative animate-bounce">
         <Image alt="logo" fill src="/logo.png" />
       </div>
-      <p className="text-sm text-muted-foreground">The Ai-Fusion-Hub are thinking...</p>
+      <p className="text-sm text-muted-foreground">The Ai-Fusion Hub are thinking...</p>
       <div className="w-96 text-sm text-muted-foreground p-6 rounded-md shadow-md transition duration-500 mx-auto text-center bg-gradient-to-br from-purple-400 to-emerald-200">
         <p className="text-black font-bold text-lg mb-2">Did you know?</p>
         <p className="text-gray-800">{randomDidYouKnow}</p>
