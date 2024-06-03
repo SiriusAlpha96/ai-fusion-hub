@@ -22,7 +22,7 @@ AI-FUSION-HUB is a creative powerhouse SaaS application that integrates advanced
 
 - **Tailwind CSS:** Craft beautiful and responsive user interfaces with the utility-first CSS framework.
 
-- **Next.js 13:** Build performant and scalable web applications with the latest version of Next.js.
+- **Next.js 14:** Build performant and scalable web applications with the latest version of Next.js.
 
 - **Prisma:** Simplify database access with a type-safe and auto-generated query builder for Node.js and TypeScript.
 
