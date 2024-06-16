@@ -6,13 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "prisma generate"
+    "lint": "next lint"
   },
   "dependencies": {
     "@clerk/nextjs": "^4.27.1",
     "@hookform/resolvers": "^3.3.2",
-    "@prisma/client": "^5.7.0",
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-label": "^2.0.2",
@@ -22,7 +20,6 @@
     "axios": "^1.6.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "crisp-sdk-web": "^1.0.21",
     "lucide-react": "^0.292.0",
     "next": "14.0.3",
     "openai": "^3.3.0",
@@ -32,12 +29,10 @@
     "react-hot-toast": "^2.4.1",
     "react-markdown": "^9.0.1",
     "replicate": "^0.22.0",
-    "stripe": "^14.8.0",
     "tailwind-merge": "^2.0.0",
     "tailwindcss-animate": "^1.0.7",
     "typewriter-effect": "^2.21.0",
-    "zod": "^3.22.4",
-    "zustand": "^4.4.7"
+    "zod": "^3.22.4"
   },
   "devDependencies": {
     "@types/node": "^20",
