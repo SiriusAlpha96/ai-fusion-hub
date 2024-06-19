@@ -1,5 +1,5 @@
 // import Navbar from "@/components/navbar";
-import Navbar from "../../components/navbar"
+import Navbar from "../../../ai-fushion-hub/components/navbar"
 import Sidebar from "@/components/sidebar";
 
 const DashboardLayout = ({ children }: { children: React.ReactNode }) => {
