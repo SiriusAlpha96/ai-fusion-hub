@@ -41,3 +41,32 @@ AI-FUSION HUB is a creative powerhouse SaaS application that integrates advanced
 git clone https://github.com/SiriusAlpha96/ai-fusion-hub.git
 
 ```
+
+2. Navigate to the project directory:
+
+```bash
+
+cd ai-fusion-hub
+
+```
+
+3. Install dependencies: 
+
+```bash 
+
+npm install
+
+```
+
+4. configure environment variables:
+
+Create a ```bash .env ``` file based on the provided ```bash .env.example``` file and fill in the necessary details.
+
+5. Run the development server:
+
+```bash 
+npm run dev
+
+```
+
+The applicayion will be accessible at ```bash http://localhost:3000 ```.
