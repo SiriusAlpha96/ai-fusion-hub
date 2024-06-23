@@ -70,3 +70,7 @@ npm run dev
 ```
 
 The applicayion will be accessible at ```http://localhost:3000 ```.
+
+## Contributing
+
+I welcome contributions from the community. Feel free to open issues, submit pull requests, or suggest new features to make Ai- Fusion Hub even more powerful and user-friendly.
