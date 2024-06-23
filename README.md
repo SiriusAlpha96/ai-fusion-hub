@@ -74,3 +74,8 @@ The applicayion will be accessible at ```http://localhost:3000 ```.
 ## Contributing
 
 I welcome contributions from the community. Feel free to open issues, submit pull requests, or suggest new features to make Ai- Fusion Hub even more powerful and user-friendly.
+
+
+## Acknowledgements
+
+- Special thanks to the open-source community for providing the tools and libraries that make Ai-Fusion Hub possible.
