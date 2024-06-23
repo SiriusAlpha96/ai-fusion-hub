@@ -31,3 +31,13 @@ AI-FUSION HUB is a creative powerhouse SaaS application that integrates advanced
 - **Clerk:** Implement user authentication and authorization with Clerk, making user management a breeze.
 
   
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+
+git clone https://github.com/SiriusAlpha96/ai-fusion-hub.git
+
+```
