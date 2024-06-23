@@ -60,7 +60,7 @@ npm install
 
 4. configure environment variables:
 
-Create a ```bash .env ``` file based on the provided ```bash .env.example``` file and fill in the necessary details.
+Create a ``` .env ``` file based on the provided ``` .env.example``` file and fill in the necessary details.
 
 5. Run the development server:
 
