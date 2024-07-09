@@ -69,7 +69,7 @@ npm run dev
 
 ```
 
-The applicayion will be accessible at ```http://localhost:3000 ```.
+The application will be accessible at ```http://localhost:3000 ```.
 
 ## Contributing
 
